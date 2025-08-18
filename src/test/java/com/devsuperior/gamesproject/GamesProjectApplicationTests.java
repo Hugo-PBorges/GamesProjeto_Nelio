@@ -1,4 +1,4 @@
-package com.devsuperior.GamesProject;
+package com.devsuperior.gamesproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
